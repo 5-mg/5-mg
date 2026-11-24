@@ -2,7 +2,7 @@
 
 **Desarrollador Full Stack · Vue + PHP + C#**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Vue+3+%C2%B7+PHP+%C2%B7+MySQL;Apps+de+escritorio+con+C%23+%2F+WPF;Linux+%C2%B7+Debian+%C2%B7+Docker;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Vue+3+%C2%B7+PHP+%C2%B7+MySQL;Apps+de+escritorio+con+C%23+%2F+WPF;Linux+%C2%B7+Debian+%C2%B7+Docker;Ciberseguridad+%28aprendiendo%29;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
 
 </div>
 
@@ -23,6 +23,19 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=vue,vite,js,html,css,php,nodejs,mysql,cs,dotnet,docker,git,github,debian,linux&perline=5" alt="Tech stack" />
+
+</div>
+
+---
+
+## 🔐 Ciberseguridad
+
+<div align="center">
+
+Aprendiendo ciberseguridad con laboratorios propios en máquinas virtuales.
+
+![Ciberseguridad](https://img.shields.io/badge/CIBERSEGURIDAD-aprendiendo-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Laboratorios](https://img.shields.io/badge/LABORATORIOS-m%C3%A1quinas_virtuales-0d1117?style=for-the-badge&logo=vmware&logoColor=white)
 
 </div>
 
