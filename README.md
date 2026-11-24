@@ -2,7 +2,7 @@
 
 **Desarrollador Full Stack · Vue + PHP + C#**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Vue+3+%C2%B7+PHP+%C2%B7+MySQL;Apps+de+escritorio+con+C%23+%2F+WPF;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Vue+3+%C2%B7+PHP+%C2%B7+MySQL;Apps+de+escritorio+con+C%23+%2F+WPF;Automatizaci%C3%B3n+con+Python+y+FFmpeg;Linux+%C2%B7+Debian+%C2%B7+Docker;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
 
 </div>
 
@@ -23,7 +23,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,js,html,css,php,mysql,cs,dotnet,nodejs,discord,git,github,debian,linux,bash&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=vue,vite,js,html,css,php,mysql,python,cs,dotnet,nodejs,discord,docker,nginx,grafana,supabase,netlify,git,github,githubactions,playwright,debian,kali,linux,bash,powershell,vmware&perline=9" alt="Tech stack" />
 </a>
 
 <br/><br/>
@@ -34,7 +34,12 @@
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/DISCORD.JS-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Pinia](https://img.shields.io/badge/PINIA-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFMPEG-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Debian](https://img.shields.io/badge/DEBIAN-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Claude](https://img.shields.io/badge/CLAUDE_CODE-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 </div>
 
