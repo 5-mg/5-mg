@@ -23,7 +23,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,js,html,css,php,mysql,cs,dotnet,nodejs,discord,git,github,vscode,visualstudio,powershell,windows&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=vue,js,html,css,php,mysql,cs,dotnet,nodejs,discord,git,github,debian,linux,bash&perline=8" alt="Tech stack" />
 </a>
 
 <br/><br/>
@@ -34,7 +34,7 @@
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/DISCORD.JS-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/WINDOWS_TERMINAL-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Debian](https://img.shields.io/badge/DEBIAN-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 </div>
 
