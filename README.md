@@ -32,10 +32,9 @@
 
 <div align="center">
 
-Aprendiendo ciberseguridad con laboratorios propios en máquinas virtuales.
+Aprendiendo ciberseguridad.
 
 ![Ciberseguridad](https://img.shields.io/badge/CIBERSEGURIDAD-aprendiendo-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![Laboratorios](https://img.shields.io/badge/LABORATORIOS-m%C3%A1quinas_virtuales-0d1117?style=for-the-badge&logo=vmware&logoColor=white)
 
 </div>
 
@@ -77,11 +76,11 @@ Aprendiendo ciberseguridad con laboratorios propios en máquinas virtuales.
 
 ---
 
-## ✍️ Cita dev aleatoria
+## ✍️ Cita
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+<i>"Voyageur, il n'y a pas de chemin, le chemin se fait en marchant."</i>
 
 </div>
 
