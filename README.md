@@ -34,6 +34,8 @@
 
 Aprendiendo ciberseguridad.
 
+<img src="https://skillicons.dev/icons?i=kali&perline=1" alt="Kali Linux" />
+
 ![Ciberseguridad](https://img.shields.io/badge/CIBERSEGURIDAD-aprendiendo-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 
 </div>
