@@ -1,8 +1,8 @@
 <div align="center">
 
-**Desarrollador Full Stack · Vue + PHP + C#**
+**Estudiante de ciberseguridad**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Vue+3+%C2%B7+PHP+%C2%B7+MySQL;Apps+de+escritorio+con+C%23+%2F+WPF;Linux+%C2%B7+Debian+%C2%B7+Docker;Ciberseguridad+%28aprendiendo%29;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Vue+3+%C2%B7+PHP+%C2%B7+MySQL;Apps+de+escritorio+con+C%23+%2F+WPF;Linux+%C2%B7+Debian+%C2%B7+Docker;Ciberseguridad+%28aprendiendo%29;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
 
 </div>
 
