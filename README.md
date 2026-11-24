@@ -23,7 +23,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vue,vite,js,html,css,php,mysql,python,cs,dotnet,nodejs,discord,docker,nginx,grafana,supabase,netlify,git,github,githubactions,playwright,debian,kali,linux,bash,powershell,vmware&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=vue,vite,js,html,css,php,mysql,python,cs,dotnet,nodejs,discord,docker,nginx,grafana,supabase,netlify,git,github,githubactions,debian,kali,linux,bash,powershell&perline=9" alt="Tech stack" />
 </a>
 
 <br/><br/>
