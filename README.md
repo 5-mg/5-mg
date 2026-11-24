@@ -82,7 +82,10 @@ Aprendiendo ciberseguridad.
 
 <div align="center">
 
-<i>"Voyageur, il n'y a pas de chemin, le chemin se fait en marchant."</i>
+<blockquote>
+<h3><i>"Voyageur, il n'y a pas de chemin,<br/>le chemin se fait en marchant."</i></h3>
+<p align="right"><b>— Antonio Machado</b></p>
+</blockquote>
 
 </div>
 
