@@ -22,32 +22,7 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=vue,vite,js,html,css&perline=8" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=php,nodejs&perline=8" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Base de datos</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql&perline=8" alt="Base de datos" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Escritorio</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cs,dotnet&perline=8" alt="Escritorio" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Herramientas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,github&perline=8" alt="Herramientas" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Sistemas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=debian,linux&perline=8" alt="Sistemas" /></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=vue,vite,js,html,css,php,nodejs,mysql,cs,dotnet,docker,git,github,debian,linux&perline=5" alt="Tech stack" />
 
 </div>
 
