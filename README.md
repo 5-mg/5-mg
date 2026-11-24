@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,vite,js,html,css,php,nodejs,mysql,cs,dotnet,docker,git,github,debian,linux&perline=5" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=vue,vite,js,html,css,react,php,nodejs,mysql,postgres,mongodb,cs,dotnet,docker,git,github,debian,linux&perline=6" alt="Tech stack" />
 
 </div>
 
